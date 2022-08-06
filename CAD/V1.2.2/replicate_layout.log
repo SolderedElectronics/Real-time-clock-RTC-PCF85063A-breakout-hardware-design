@@ -1,0 +1,39 @@
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 295:Plugin executed on: 'win32'
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 296:Plugin executed with python version: '3.9.10 (main, Feb 11 2022, 04:18:11) [MSC v.1928 64 bit (AMD64)]'
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 297:KiCad build version: (6.0.2)
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 298:Plugin version: 1.1.2
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 299:Frame repr: <wx._core.Frame object at 0x0000024B22DEE5E0>
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 323:Preparing replicator with R3 as a reference
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 98:getting a list of all footprints on board
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint G*** does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint G*** does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint G*** does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint G*** does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint G*** does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint G*** does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint REF** does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint REF** does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 351:source anchor footprint is 'R3'
+Located on: []
+With filenames: []
+With sheet_id:[]
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 358:Corresponding footprints are 
+[('R3', [])]
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 370:Showing dialog
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 376:Toolbar position: wx.Point(1699, 125)
+07-18 12:56:07 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 382:Dialog position: wx.Point(1335, 125)
+07-18 12:56:10 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 224:User canceled the dialog
