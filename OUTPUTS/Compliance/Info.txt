@@ -1,5 +1,5 @@
 SKU: 333051
 Full product name: Real time clock RTC PCF85063A breakout
 Country of origin: Croatia
-HS tariff code: 85389000  
+HS tariff code: 85340090
 EAN/UPC barcode: 732388671908
